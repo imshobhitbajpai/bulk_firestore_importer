@@ -6,4 +6,4 @@ Bulk Firebase Importer is flutter desktop app which was developed to upload the 
 
 It is a Flutter Project. Just Clonse the git repository and run the project and it will show you all the steps to follow automatically.
 
-![CSV to Firestore Uploader](screenshots/Screenshot 2024-06-23 at 4.12.24 AM.png)
+![CSV to Firestore Uploader](https://github.com/imshobhitbajpai/bulk_firestore_importer/blob/main/screenshots/Screenshot%202024-06-08%20at%2012.46.57%E2%80%AFAM.png?raw=true)
