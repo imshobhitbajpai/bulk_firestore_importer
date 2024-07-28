@@ -1,16 +1,7 @@
 # bulk_firebase_importer
 
-A new Flutter project.
+Bulk Firebase Importer is flutter desktop app which was developed to upload the data from a csv file to firestore databases in batches. I've personally written 1,85,000 firebase database from a csv file with it and now I made it open source.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It is a Flutter Project. Just Clonse the git repository and run the project and it will show you all the steps to follow automatically.
