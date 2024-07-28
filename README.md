@@ -18,6 +18,4 @@ It is a Flutter Project. Just Clonse the git repository and run the project and 
 ![CSV to Firestore Uploader](https://github.com/imshobhitbajpai/bulk_firestore_importer/blob/main/screenshots/Screenshot%202024-06-08%20at%2012.47.09%E2%80%AFAM.png?raw=true)
 
 
-![CSV to Firestore Uploader](https://github.com/imshobhitbajpai/bulk_firestore_importer/blob/main/screenshots/Screenshot%202024-06-08%20at%2012.46.57%E2%80%AFAM.png?raw=true)
-
 
